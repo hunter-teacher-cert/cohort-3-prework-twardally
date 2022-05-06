@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Divisible {
     public static void main(String[] args){
-      // sides of a triangle
+      
       Scanner in = new Scanner(System.in);
           
         
